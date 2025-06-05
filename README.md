@@ -4,20 +4,6 @@ A full-stack mini app developed for the Swipeline AI Studio internship challenge
 It analyzes a tweet (mocked) and sends the analysis result to Airtable using REST API.
 
 ---
-
-## 🚀 Features
-
-- Tweet URL input
-- Simulated tweet content & AI logic
-- Generates:
-  - Summary (1–2 sentences)
-  - Sentiment (Positive / Neutral)
-  - Username (mocked)
-  - Datetime (ISO format)
-- Saves results to Airtable
-- Built with React + Node.js + Airtable API
-
----
 ## 🚀 Features
 
 - Tweet URL input
