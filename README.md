@@ -28,7 +28,48 @@ It analyzes a tweet (mocked) and sends the analysis result to Airtable using RES
 
 ---
 
+## 💻 How to Run Locallyfrom pathlib import Path
+
+# README.md content
+readme_content = """
+# 🧠 AI Tweet Analyzer Bot
+
+A full-stack mini app developed for the Swipeline AI Studio internship challenge.  
+It analyzes a tweet (mocked) and sends the analysis result to Airtable using REST API.
+
+---
+
+## 🚀 Features
+
+- Tweet URL input
+- Simulated tweet content & AI logic
+- Generates:
+  - Summary (1–2 sentences)
+  - Sentiment (Positive / Neutral)
+  - Username (mocked)
+  - Datetime (ISO format)
+- Saves results to Airtable
+- Built with React + Node.js + Airtable API
+
+---
+
+## 🧰 Tech Stack
+
+- Frontend: React
+- Backend: Node.js (Express)
+- Database: Airtable
+- Others: Axios, dotenv, body-parser, cors
+
+---
+
 ## 💻 How to Run Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/tweet-analyzer.git
+cd tweet-analyzer
+
 
 ### 1. Clone the Repository
 
