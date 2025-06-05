@@ -18,27 +18,6 @@ It analyzes a tweet (mocked) and sends the analysis result to Airtable using RES
 - Built with React + Node.js + Airtable API
 
 ---
-
-## 🧰 Tech Stack
-
-- Frontend: React
-- Backend: Node.js (Express)
-- Database: Airtable
-- Others: Axios, dotenv, body-parser, cors
-
----
-
-## 💻 How to Run Locallyfrom pathlib import Path
-
-# README.md content
-readme_content = """
-# 🧠 AI Tweet Analyzer Bot
-
-A full-stack mini app developed for the Swipeline AI Studio internship challenge.  
-It analyzes a tweet (mocked) and sends the analysis result to Airtable using REST API.
-
----
-
 ## 🚀 Features
 
 - Tweet URL input
