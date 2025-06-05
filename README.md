@@ -1,6 +1,4 @@
-# 🧠 AI Tweet Analyzer Bot
-
-A full-stack mini app developed for the Swipeline AI Studio internship challenge.  
+# 🧠 AI Tweet Analyzer Bot 
 It analyzes a tweet (mocked) and sends the analysis result to Airtable using REST API.
 
 ---
